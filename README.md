@@ -1,4 +1,4 @@
-Cordova Plugin Template
+Cordova Plugin For Trimming Video
 ======
 
-This is a simple starting point for building a Cordova plugin on iOS and Android.
+
